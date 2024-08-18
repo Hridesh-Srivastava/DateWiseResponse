@@ -1,0 +1,1 @@
+<h2> It is a simple Node.js application that demonstrates dynamic rendering of content based on the current date and time. This application uses the Express framework and EJS templating to generate different responses depending on the day of the week and the time of day.</h2>
